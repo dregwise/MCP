@@ -198,12 +198,11 @@ GPT: [Places trailing stops → Confirms each → Sets monitoring]
 - **ChatGPT Custom GPTs:** https://platform.openai.com/docs/gpts
 - **MCP Spec:** https://modelcontextprotocol.io
 - **Robinhood Agentic:** https://robinhood.com/agentic
-- **Disclosures:** https://robinhood.com/legal/agentic-trading-disclosures
+- **Disclosures:** https://robinhood.com/legal/
 
 ---
 
 ## Support
 
 - **Issues:** https://github.com/Dregwise/issues
-- **Discord:** https://discord.gg/dregwise
-- **Email:** support@dregwise.xyz
+- **Website:** dregwise.xyz SOON
