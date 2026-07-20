@@ -219,12 +219,11 @@ curl -v https://agent.robinhood.com/mcp/trading
 - **Claude Code Docs:** https://docs.anthropic.com/en/docs/claude-code
 - **MCP Spec:** https://modelcontextprotocol.io
 - **Robinhood Agentic:** https://robinhood.com/agentic
-- **Disclosures:** https://robinhood.com/legal/agentic-trading-disclosures
+- **Disclosures:** https://robinhood.com/legal/
 
 ---
 
 ## Support
 
 - **Issues:** https://github.com/Dregwise/issues
-- **Discord:** https://discord.gg/dregwise
-- **Email:** support@dregwise.xyz
+- **Website:** dregwise.xyz SOON
