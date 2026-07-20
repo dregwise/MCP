@@ -64,7 +64,7 @@ Once connected to the Robinhood Trading MCP, your AI agent can:
 - Set daily loss limits (e.g., "stop if down $1,000/day")
 - Require confirmation for orders > $X
 - Monitor daily via Robinhood app
-- Read [Robinhood Agentic Trading Disclosures](https://robinhood.com/legal/agentic-trading-disclosures)
+- Read [Robinhood Agentic Trading Disclosures](https://robinhood.com/legal/)
 
 ---
 
