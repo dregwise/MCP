@@ -166,12 +166,11 @@ MCP servers persist in Codex settings. To view/edit:
 - **Codex Docs:** https://codex.openai.com/docs
 - **MCP Spec:** https://modelcontextprotocol.io
 - **Robinhood Agentic:** https://robinhood.com/agentic
-- **Disclosures:** https://robinhood.com/legal/agentic-trading-disclosures
+- **Disclosures:** https://robinhood.com/legal/
 
 ---
 
 ## Support
 
 - **Issues:** https://github.com/Dregwise/issues
-- **Discord:** https://discord.gg/dregwise
-- **Email:** support@dregwise.xyz
+- **Website:** dregwise.xyz SOON
