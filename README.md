@@ -184,10 +184,14 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## ⚖️ Legal Disclaimer
 
-**Dregwise is an independent documentation project. Not affiliated with, endorsed by, or connected to Robinhood Markets, Inc., Anthropic, OpenAI, or any AI platform provider.**
+**This documentation and the Dregwise token are independent community projects.** They are not affiliated with, endorsed by, sponsored by, or officially connected to Robinhood Markets, Inc., Robinhood’s MCP products, Anthropic, OpenAI, or any other AI platform provider.
 
-> This documentation is for educational purposes only. Trading securities involves substantial risk of loss and is not suitable for every investor. Past performance is not indicative of future results. Consult a qualified financial advisor before making investment decisions. The authors and contributors are not liable for any financial losses, damages, or consequences arising from the use of this documentation or the connected AI agents.
+This documentation is provided for educational and informational purposes only. Nothing here constitutes financial, investment, legal, or trading advice. Trading securities, tokens, and digital assets involves substantial risk, and past performance does not guarantee future results. Always do your own research and consult a qualified advisor before making financial decisions.
+
+The authors, contributors, and maintainers are not liable for any financial losses, damages, or consequences arising from the use of this documentation, connected AI agents, or related community-built tools.
 
 ---
 
-**Built by the Dregwise community** • [@_DregwiseRh](https://x.com/_DregwiseRh) • Contract: `0x3547ffe3f05a8371f1c37ca0763456969889cf44`
+**Important:** Robinhood’s official MCP offerings are separate from this project. The token, added tooling/tek, and detailed docs here are built by the Dregwise community and are **not endorsed by Robinhood**.
+
+**Community:** [@_DregwiseRh](https://x.com/_DregwiseRh) • Contract: `0x3547ffe3f05a8371f1c37ca0763456969889cf44`
